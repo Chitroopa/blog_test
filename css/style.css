@@ -1,0 +1,27 @@
+.intro {
+  font-style: italic;
+  color: grey;
+}
+
+.second {
+  font-style: oblique;
+  font-weight: bolder;
+  font-stretch: expanded;
+  color: green;
+}
+
+.highlight {
+  background-color: yellow;
+  font-weight: bolder;
+}
+
+body {
+  font-family: sans-serif;
+  background-color: orange;
+}
+
+.stretch {
+  font-stretch: extra-expanded;
+  color: blue;
+
+}
