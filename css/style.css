@@ -39,3 +39,7 @@ img{
   width: 300px;
   float: left;
 }
+.small
+{
+  font-size: 15px;
+}
